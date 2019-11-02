@@ -1,0 +1,38 @@
+.forma {
+    border: 6px solid rgb(146, 0, 243);
+    border-radius: 4px;
+    border-style: double;
+    justify-content: space-around;
+    width: 40vw;
+}
+
+form h1,
+form h2 {
+    text-align: center;
+    font-size: 14px;
+}
+
+.sect {
+    position: sticky;
+    top: -20vh;
+    left: 0;
+}
+
+.program {
+    text-align: center;
+}
+
+form p a {
+    text-align: start;
+    font-family: cursive, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: darkgoldenrod;
+}
+
+form input {
+    justify-content: space-around;
+    display: flex;
+    height: 20px;
+    width: 90%;
+}
